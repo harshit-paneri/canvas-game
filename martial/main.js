@@ -7,7 +7,6 @@ let loadimage = (src, callback) => {
 };
 let imagepath = (imagenumber, animations) => {
   return animations + "/" + String(imagenumber) + ".png";
-  
 };
 
 let frames = {
