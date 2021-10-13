@@ -1,4 +1,4 @@
-Hello Contributers 
+# Hello Contributers 
 
 this is just ja HTML Canva game 
 
