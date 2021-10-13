@@ -1,11 +1,12 @@
 # Hello Contributers 
 
-this is just ja HTML Canva game 
+#this is just ja HTML Canva game 
 
-you have just update their backgroud
+# 1) You have just update their backgroud
+## 2) Change button interface
 
 
-# canvas-game
+## canvas-game
 
 # Follow this link to play
 
