@@ -1,3 +1,4 @@
+//it's done
 var c = document.getElementById("myCanvas");
 var ctx = c.getContext("2d");
 let loadimage = (src, callback) => {
