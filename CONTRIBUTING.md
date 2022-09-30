@@ -1,6 +1,6 @@
 ## Add user data
 
 ---
-id : harshit-paneri
-name : Harshit Paneri
+id | harshit-paneri
+harshit-paneri | Harshit Paneri
 ---
