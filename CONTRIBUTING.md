@@ -1,6 +1,7 @@
-## Add user data
+## Add Contributor data
 
----
-id | harshit-paneri
+
+id | name
+-----| --------------
 harshit-paneri | Harshit Paneri
----
+
