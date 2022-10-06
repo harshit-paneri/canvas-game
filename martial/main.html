@@ -1,10 +1,17 @@
 <h1 style="color:white;">Harshit Paneri Game Enjoy and Play</h1>
 <canvas id="myCanvas" width=500px height=500px></canvas>
-<button id="kick" class="button">Kick(Left arrow Key)</button>
-<button id="punch" class="button">Punch(Right arrow key)</button>
-<button id="forward" class="button">Forward(up arrow key)</button>
-<button id="backward" class="button"> Backward(down arrow key)</button>
-<button id="block" class="button">block(Space bar)</button>
+<div class="center">
+
+
+  <button id="kick" class="button">Kick(Left arrow Key)<img src="./kick/left.png" height="20px" width="20px" /></button>
+  <button id="punch" class="button">Punch(Right arrow key)<img src="./kick/right.png" height="20px"
+      width="20px" /></button>
+  <button id="forward" class="button">Forward(up arrow key<img src="./kick/forward.png" height="20px"
+      width="20px" /></button>
+  <button id="backward" class="button"> Backward(down arrow key)<img src="./kick/back.png" height="20px"
+      width="20px" /></button>
+  <button id="block" class="button">block(Space bar)<img src="./kick/block.png" height="20px" width="20px" /></button>
+</div>
 <style>
   body {
     background-image: url('background.jpg');
@@ -26,14 +33,22 @@
     font-size: 10px;
     margin: 2px 1px;
     cursor: pointer;
+    border-radius: 15px 15px;
+    align-content: center;
   }
-  button:hover{
+
+  button:hover {
     background-color: white;
     color: black;
   }
 
   .button4 {
     border-radius: 6px;
+  }
+
+  .center {
+
+    text-align: center;
   }
 </style>
 
