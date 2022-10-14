@@ -3,5 +3,4 @@
 | id             | name           |
 | -------------- | -------------- |
 | harshit-paneri | Harshit Paneri |
-
-kailew | Kai Lew
+| kailew         | Kai Lew        |
