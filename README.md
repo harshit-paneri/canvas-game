@@ -3,9 +3,7 @@
 
 ## Welcome to my  HTML Canva game 
 
- 1) You just have to  update their backgroud
- 2) Change button interface
- and you are good to go......
+
  
  # Here are some images of its functionality :
  
