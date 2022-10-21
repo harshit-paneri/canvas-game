@@ -27,7 +27,7 @@
  
  * Block(space bar)
  
-  <img src="/images/6.png">
+  <img src="/images/Block.png">
 
 
 
