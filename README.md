@@ -23,7 +23,7 @@
  
  * Backward( down arrow key)
  
- <img src="/images/5.png">
+ <img src="/images/Backward.png">
  
  * Block(space bar)
  
