@@ -1,7 +1,7 @@
 # Hello Contributers 
 
 ## Welcome to my  HTML Canva game 
---------------------------------------------------------------------------------
+
  # Here are some images of its functionality :
  
  <img src="/images/1.png">
