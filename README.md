@@ -1,6 +1,6 @@
-# Hello Contributers 
+## Hello Contributers 
 
-## Welcome to my  HTML Canva game 
+# Welcome to my  HTML Canva game 
 
  # Here are some images of its functionality :
  
