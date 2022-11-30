@@ -1,4 +1,5 @@
 var c = document.getElementById("myCanvas");
+console.log(c);
 var ctx = c.getContext("2d");
 let loadimage = (src, callback) => {
   var img = document.createElement("img");
