@@ -105,3 +105,14 @@ loadImages((images) => {
     }
   });
 });
+
+const backgroundImages = ['Martial.png', 'background.jpg'];
+let currentBackgroundImageIndex = 0;
+
+function changeBackground() {
+  currentBackgroundImageIndex = (currentBackgroundImageIndex + 1) % backgroundImages.length;
+  const imageUrl = backgroundImages[currentBackgroundImageIndex];
+  document.body.style.backgroundImage = `url('${imageUrl}')`;
+}
+
+setInterval(changeBackground, 7000);
